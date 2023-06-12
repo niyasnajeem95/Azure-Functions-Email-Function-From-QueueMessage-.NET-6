@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailFunctionApp", "EmailNotification\EmailFunctionApp.csproj", "{04A8E376-459F-4F16-BBAA-4099AFD83F1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StorageOperations", "StorageOperations\StorageOperations.csproj", "{725B38B3-BEF0-45C2-BAC7-BAC2694D41AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04A8E376-459F-4F16-BBAA-4099AFD83F1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04A8E376-459F-4F16-BBAA-4099AFD83F1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04A8E376-459F-4F16-BBAA-4099AFD83F1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04A8E376-459F-4F16-BBAA-4099AFD83F1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{725B38B3-BEF0-45C2-BAC7-BAC2694D41AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{725B38B3-BEF0-45C2-BAC7-BAC2694D41AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{725B38B3-BEF0-45C2-BAC7-BAC2694D41AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{725B38B3-BEF0-45C2-BAC7-BAC2694D41AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BC69023-4C59-4896-8585-B8F33C408F84}
+	EndGlobalSection
+EndGlobal
