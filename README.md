@@ -1,0 +1,1 @@
+# Azure-Functions-Email-Function-From-QueueMessage-.NET-6
